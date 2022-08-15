@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Домашка3\task007\bin\Debug\net6.0\task007.exe
+C:\Users\pc\Desktop\Домашка3\task007\bin\Debug\net6.0\task007.deps.json
+C:\Users\pc\Desktop\Домашка3\task007\bin\Debug\net6.0\task007.runtimeconfig.json
+C:\Users\pc\Desktop\Домашка3\task007\bin\Debug\net6.0\task007.dll
+C:\Users\pc\Desktop\Домашка3\task007\bin\Debug\net6.0\task007.pdb
+C:\Users\pc\Desktop\Домашка3\task007\obj\Debug\net6.0\task007.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Домашка3\task007\obj\Debug\net6.0\task007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Домашка3\task007\obj\Debug\net6.0\task007.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Домашка3\task007\obj\Debug\net6.0\task007.AssemblyInfo.cs
+C:\Users\pc\Desktop\Домашка3\task007\obj\Debug\net6.0\task007.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Домашка3\task007\obj\Debug\net6.0\task007.dll
+C:\Users\pc\Desktop\Домашка3\task007\obj\Debug\net6.0\refint\task007.dll
+C:\Users\pc\Desktop\Домашка3\task007\obj\Debug\net6.0\task007.pdb
+C:\Users\pc\Desktop\Домашка3\task007\obj\Debug\net6.0\task007.genruntimeconfig.cache
+C:\Users\pc\Desktop\Домашка3\task007\obj\Debug\net6.0\ref\task007.dll
